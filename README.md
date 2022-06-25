@@ -12,6 +12,8 @@ Cyclostationarity-Based Network IDSs.
 
 The dataset is built with **real traffic** and **up-to-date attacks**. These data come from several netflow v9 collectors strategically located in the network of a spanish ISP. It is composed of two differentiated sets of data that are previously split in weeks.
 
+A precise analysis of the dataset is available on [this](https://nesg.ugr.es/nesg-ugr16/dataset_AuthorVersionFinal.pdf) paper.
+
 ## Analysis
 
 The analysis is made with python on the `MLSECU_SG_AL_VS.ipynb` notebook. We are going through the whole analysis process, with the **dataset exploration**, the **cleaning**, the **feature engineering**, **statistical analysis**, **visualization** and finally the **machine learning** part.
